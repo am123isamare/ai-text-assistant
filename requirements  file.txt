@@ -1,0 +1,10 @@
+# Requirements for the AI Text Assistant Streamlit Application
+
+streamlit==1.20.0
+PyPDF2==3.0.1
+langchain==0.0.200
+langchain-google-genai==0.0.5
+langchain-community==0.0.1
+
+# Optional for debugging and testing
+# pytest==7.1.3
